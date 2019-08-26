@@ -1,0 +1,33 @@
+#colum-1, #colum-2 {
+  width: 50%;
+  float: right;
+  height: 100%;
+}
+li {
+  list-style-type: none;
+  margin-left: 150px;
+ }
+ ul {
+  margin-left: 0; 
+  padding-left: 0; 
+ }
+ 
+.btn {
+  border:none;
+  background-color: none;
+}
+
+.panel {
+  display: flex;
+  align-items: center;
+}
+
+#Tag-1,#Tag-2 {
+  margin-left:  200px;
+}
+
+.header {
+  height: 50px;
+  display: flex;
+  align-items: center;
+}
